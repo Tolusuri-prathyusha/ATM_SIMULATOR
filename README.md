@@ -14,4 +14,5 @@
 
 *  **PIL (Python Imaging Library, also known as Pillow):** This library is used to handle images in the Tkinter GUI.
   ## preview ##
-  
+  ![atm simulator](https://github.com/Tolusuri-prathyusha/ATM_SIMULATOR/assets/113997379/d9257d12-a96d-4fdd-9be8-d4240e78637b)
+
